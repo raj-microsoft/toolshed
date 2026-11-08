@@ -1,0 +1,5 @@
+.impeccable/
+verification/
+node_modules/
+.env
+.env.*
