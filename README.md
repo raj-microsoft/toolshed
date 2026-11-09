@@ -18,4 +18,8 @@ This preserves all 15 guide records without repeating the guide title as a curre
 
 `test.cjs` uses the host's installed Playwright Core and Edge. Adjust its library/executable paths on other machines. Checks 15 cards, example ranking, filters, empty results, clear, safe HTML-like input, HTTPS official links, 390px overflow, reduced motion and JS errors. Impeccable detector: zero findings after increasing small text. Desktop/mobile screenshots manually inspected. Design review and tokens: `DESIGN.md`.
 
-Original SVG geometry, CSS materials; Barlow Condensed by Jeremy Tribby (SIL OFL included). No third-party imagery. Independent project, not affiliated with Google.
+Original SVG geometry; AI-generated pegboard, paper and hook imagery made with ChatGPT image generation (9 November 2026). Responsive quality-78 WebP assets; 960/1536px board, 480/960px hook, shared paper and board/wood crops. Gentle 4.5-second daylight shift runs locally in CSS; no Veo or video. Reduced motion keeps the materials still. Barlow Condensed by Jeremy Tribby (SIL OFL included). Independent project, not affiliated with Google. No Google logos or product imagery.
+
+## Photoreal pass
+
+The wooden frame and perforated board replace the drawn board, and fine paper fibers replace flat card surfaces. The original symbols remain deliberately geometric for fast recognition, not provider branding. All card text is HTML; `docs/tools.js` and `docs/app.js` are unchanged. Source provenance and payload details: `docs/assets/PROVENANCE.md`.

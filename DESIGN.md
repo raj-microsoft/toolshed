@@ -14,3 +14,8 @@ Matching is local, debounced keyword matching, also submit-triggered. Active rec
 
 ## Finish review
 In-thread review because this assigned researcher workflow prohibits further delegation. Inspected Edge desktop and mobile captures. Verdict: passes the pinned concept and practical picker task. Fixed detector's tiny-text finding, then detector returned []. Tested all 15 cards, keyword ranking, filters, empty recovery, reset, HTML-input safety, links, reduced motion and mobile overflow. No shipping raster imagery; icons are original geometric SVG; font OFL is included. Source status changes are visible and linked. Long mobile board is intentional; filters shorten it.
+
+## Photoreal update — 9 November 2026
+Three ChatGPT-generated stills supply the real oak-framed sage pegboard, low-contrast paper fibers and a hanging-hook material study. Board image has 960/1536px responsive sources; cropped board/wood materials extend the long mobile wall without stretching its perforations. Blank textures keep all text accessible HTML. The existing geometric SVG icons remain intentionally drawn: readable editorial navigation, not Google branding. Facts, official URLs, ranking code and hook-swing logic are unchanged.
+
+Local CSS daylight shift ends after 4.5 seconds; reduced motion removes it and the swing. Fixed the detector's added colored inset shadow and restored the original sage-white page palette; detector now returns []. Headless Edge behavior tests passed at 390px/1440px, including responsive image loading, lazy hook image, no overflow and no JS errors. Generated stills visually inspected and SHA-256 checked distinct. Payload/provenance: docs/assets/PROVENANCE.md.
